@@ -1,0 +1,7 @@
+1. EarthSpawner 에서 프리팹등록 후 if(a.type 부분 추가
+
+2. LineController 에서 if(input.getKeyDown 부분 추가
+
+3. PlayerController에서 프리팹 등록후 CmdMakeCube 부분 추가
+
+4. NetworkManager 에서 프리팹 등록
